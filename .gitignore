@@ -1,0 +1,9 @@
+# Macの不要ファイル
+.DS_Store
+
+# 仮想環境とPythonキャッシュ
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
